@@ -34,6 +34,10 @@
 - **FocusMate**: Developed an **Android app** for task management using **geofencing techniques** and a **recommendation engine** to suggest personalized leisure activities.
 - **Arxiv-RAG**: Retrieval-Augmented Generation for ArXiv Papers 📚 - Built a RAG pipeline for multi-format ArXiv papers using FAISS, RocksDB, and OpenAI’s CLIP for efficient query-based retrieval. Deployed a Dockerized API for real-time LLM-powered responses.
 
+## 📊 GitHub Stats  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaku-bot&layout=compact&theme=tokyonight)  
+
+
 ## 🏆 Awards & Honors  
 - 🏅 **Best Graduate Award (Gold Medalist), NIT Rourkela**  
 - 🏅 **Institute Topper - Chemical Engineering, NIT Rourkela**  
